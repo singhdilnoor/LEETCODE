@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/singhdilnoor/LEETCODE/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/singhdilnoor/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -22,10 +23,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/singhdilnoor/LEETCODE/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/singhdilnoor/LEETCODE/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
