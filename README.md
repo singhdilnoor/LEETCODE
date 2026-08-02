@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/singhdilnoor/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/singhdilnoor/LEETCODE/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/singhdilnoor/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/singhdilnoor/LEETCODE/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
