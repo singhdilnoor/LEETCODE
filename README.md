@@ -39,4 +39,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/singhdilnoor/LEETCODE/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
