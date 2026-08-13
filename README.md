@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/singhdilnoor/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/singhdilnoor/LEETCODE/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/singhdilnoor/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/singhdilnoor/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/singhdilnoor/LEETCODE/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/singhdilnoor/LEETCODE/tree/master/0125-valid-palindrome) |
@@ -52,4 +54,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0125-valid-palindrome](https://github.com/singhdilnoor/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0344-reverse-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/singhdilnoor/LEETCODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
