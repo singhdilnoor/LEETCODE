@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0041-first-missing-positive](https://github.com/singhdilnoor/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/singhdilnoor/LEETCODE/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/singhdilnoor/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/singhdilnoor/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/singhdilnoor/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/singhdilnoor/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
