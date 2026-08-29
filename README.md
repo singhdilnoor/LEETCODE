@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/singhdilnoor/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0041-first-missing-positive](https://github.com/singhdilnoor/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/singhdilnoor/LEETCODE/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/singhdilnoor/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/singhdilnoor/LEETCODE/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -106,4 +109,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/singhdilnoor/LEETCODE/tree/master/0067-add-binary) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
