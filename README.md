@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/singhdilnoor/LEETCODE/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/singhdilnoor/LEETCODE/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/singhdilnoor/LEETCODE/tree/master/0338-counting-bits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
