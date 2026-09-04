@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/singhdilnoor/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/singhdilnoor/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/singhdilnoor/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0344-reverse-string) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/singhdilnoor/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/singhdilnoor/LEETCODE/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/singhdilnoor/LEETCODE/tree/master/0338-counting-bits) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/singhdilnoor/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -121,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhdilnoor/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/singhdilnoor/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
