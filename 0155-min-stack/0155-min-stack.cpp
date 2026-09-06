@@ -1,32 +1,39 @@
-#include <stack>
-#include <algorithm>
-
 class MinStack {
 private:
-    // Pair structure: {actual_value, current_minimum}
-    std::stack<std::pair<int, int>> st;
+stack<int> st;
+stack<int> minst;
 
 public:
-    MinStack() {}
+    MinStack() {
+        
+    }
     
-    void push(int val) {
-        if (st.empty()) {
-            st.push({val, val});
-        } else {
-            int current_min = std::min(val, st.top().second);
-            st.push({val, current_min});
-        }
+    void push(int value) {
+        st.push(value);
+        if(minst.empty())minst.push(value);
+        else minst.push(min(value,minst.top()));
     }
     
     void pop() {
+        if(!st.empty()){
         st.pop();
+        minst.pop();}
     }
     
     int top() {
-        return st.top().first;
+        return st.top();
     }
     
     int getMin() {
-        return st.top().second;
+        return minst.top();
     }
 };
+
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack* obj = new MinStack();
+ * obj->push(value);
+ * obj->pop();
+ * int param_3 = obj->top();
+ * int param_4 = obj->getMin();
+ */
