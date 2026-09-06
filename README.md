@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/singhdilnoor/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/singhdilnoor/LEETCODE/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/singhdilnoor/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -142,4 +143,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/singhdilnoor/LEETCODE/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/singhdilnoor/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/singhdilnoor/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
