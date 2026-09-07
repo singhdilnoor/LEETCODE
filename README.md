@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/singhdilnoor/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0394-decode-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/singhdilnoor/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Greedy
 |  |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/singhdilnoor/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/singhdilnoor/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/singhdilnoor/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0394-decode-string) |
 ## Bracket Sequences
 |  |
 | ------- |
