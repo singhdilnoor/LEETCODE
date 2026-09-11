@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/singhdilnoor/LEETCODE/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0739-daily-temperatures](https://github.com/singhdilnoor/LEETCODE/tree/master/0739-daily-temperatures) |
+| [2094-finding-3-digit-even-numbers](https://github.com/singhdilnoor/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [3925-concatenate-array-with-reverse](https://github.com/singhdilnoor/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/singhdilnoor/LEETCODE/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/singhdilnoor/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/singhdilnoor/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/singhdilnoor/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2094-finding-3-digit-even-numbers](https://github.com/singhdilnoor/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0394-decode-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/singhdilnoor/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -161,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/singhdilnoor/LEETCODE/tree/master/0739-daily-temperatures) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/singhdilnoor/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
