@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0394-decode-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/singhdilnoor/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/singhdilnoor/LEETCODE/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |
 | ------- |
