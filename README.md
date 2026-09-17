@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/singhdilnoor/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/singhdilnoor/LEETCODE/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0202-happy-number) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/singhdilnoor/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/singhdilnoor/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
@@ -173,4 +175,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/singhdilnoor/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/singhdilnoor/LEETCODE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
