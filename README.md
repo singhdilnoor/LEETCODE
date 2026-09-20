@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0344-reverse-string) |
+| [0763-partition-labels](https://github.com/singhdilnoor/LEETCODE/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/singhdilnoor/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0763-partition-labels](https://github.com/singhdilnoor/LEETCODE/tree/master/0763-partition-labels) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/singhdilnoor/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/singhdilnoor/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 ## Divide and Conquer
@@ -86,12 +88,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/singhdilnoor/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/singhdilnoor/LEETCODE/tree/master/0394-decode-string) |
+| [0763-partition-labels](https://github.com/singhdilnoor/LEETCODE/tree/master/0763-partition-labels) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/singhdilnoor/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/singhdilnoor/LEETCODE/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/singhdilnoor/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0763-partition-labels](https://github.com/singhdilnoor/LEETCODE/tree/master/0763-partition-labels) |
 ## String Matching
 |  |
 | ------- |
