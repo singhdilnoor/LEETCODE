@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/singhdilnoor/LEETCODE/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0739-daily-temperatures](https://github.com/singhdilnoor/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0989-add-to-array-form-of-integer](https://github.com/singhdilnoor/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [2094-finding-3-digit-even-numbers](https://github.com/singhdilnoor/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [3925-concatenate-array-with-reverse](https://github.com/singhdilnoor/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/singhdilnoor/LEETCODE/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/singhdilnoor/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [3870-count-commas-in-range](https://github.com/singhdilnoor/LEETCODE/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
