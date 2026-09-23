@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/singhdilnoor/LEETCODE/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/singhdilnoor/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/singhdilnoor/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0989-add-to-array-form-of-integer](https://github.com/singhdilnoor/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [2094-finding-3-digit-even-numbers](https://github.com/singhdilnoor/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/singhdilnoor/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/singhdilnoor/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singhdilnoor/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/singhdilnoor/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/singhdilnoor/LEETCODE/tree/master/0763-partition-labels) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/singhdilnoor/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/singhdilnoor/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/singhdilnoor/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/singhdilnoor/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Stack
 |  |
